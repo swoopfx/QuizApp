@@ -1,0 +1,46 @@
+<resources>
+    <string name="question_header">Quiz</string>
+
+    <string name="btn_question_1">1</string>
+    <string name="btn_question_2">2</string>
+    <string name="btn_question_3">3</string>
+    <string name="btn_question_4">4</string>
+    <string name="btn_question_5">5</string>
+
+    <string name="app_name">Quiz App</string>
+
+    <string name="Submit_btn">SUBMIT</string>
+
+    <string name="question1">What is the fastest four legged animal</string>
+    <string name="question2">What determines the sex of a crocodile during incubation</string>
+    <string name="question3">The biggest sea mammal is ?</string>
+    <string name="question4">Kangaroos are predominantly found in which continent</string>
+    <string name="question5">Every bee colony has how many queen</string>
+
+
+
+    <string name="answer1text1">Elephant</string>
+    <string name="answer1text2">Cheetah</string>
+    <string name="answer1text3">Snail</string>
+    <string name="answer1text4">Dog</string>
+
+    <string name="answer2text1">Temperature</string>
+    <string name="answer2text2">Salinity</string>
+    <string name="answer2text3">Genetics</string>
+    <string name="answer2text4">Humidity</string>
+
+    <string name="answer3text1">Elephant</string>
+    <string name="answer3text2">Sea lion</string>
+    <string name="answer3text3">Snail</string>
+    <string name="answer3text4">Whale</string>
+
+    <string name="answer4text1">Africa</string>
+    <string name="answer4text2">Australia</string>
+    <string name="answer4text3">South America</string>
+    <string name="answer4text4">Europe</string>
+
+    <string name="answer5text1">10</string>
+    <string name="answer5text2">2</string>
+    <string name="answer5text3">1</string>
+    <string name="answer5text4">100</string>
+</resources>
